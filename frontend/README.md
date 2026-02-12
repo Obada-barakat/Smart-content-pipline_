@@ -9,7 +9,7 @@ A visual workflow builder for automating content creation and distribution using
 
 ## 🎯 Live Demo
 
-🔗 **[View Live Demo](#)** _(Add your Vercel URL here after deployment)_
+🔗 **[View Live Demo](#)** _(https://smart-content-pipline.vercel.app/)_
 
 ## ✨ Features (Phase 1)
 
